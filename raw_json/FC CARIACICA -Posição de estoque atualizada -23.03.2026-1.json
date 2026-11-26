@@ -1,0 +1,3398 @@
+{
+  "arquivo_origem": "FC CARIACICA -Posição de estoque atualizada -23.03.2026-1.pdf",
+  "unidade_bruta": "CARIACICA",
+  "data_referencia": "2026-03-23",
+  "n_linhas": 226,
+  "linhas": [
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ACIDO URSODESOXICOLICO 150MG CPR",
+        "COMPRIMIDO",
+        "6630"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ACIDO URSODESOXICOLICO 300MG CPR",
+        "COMPRIMIDO",
+        "420"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ACIDO ZOLEDRONICO 5MG/100ML SLC\nINTRAVENOSA",
+        "MILILITRO",
+        "1100"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ACITRETINA 10MG CAP",
+        "CAPSULA",
+        "980"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ACITRETINA 25MG CAP",
+        "CAPSULA",
+        "960"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ADALIMUMABE 40MG/0,8ML SER - IDACIO (T)",
+        "SERINGA",
+        "248"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "AGULHA PARA CANETA 0,23 X 4 MM 32G",
+        "UNIDADE",
+        "4927"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ALFAGALSIDASE_REPLAGAL 1MG/ML F/A (T)",
+        "FRASCO AMPOLA",
+        "38"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ALFATALIGLICERASE 200UI F/A (T)",
+        "FRASCO AMPOLA",
+        "54"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "AMANTADINA 100MG CPR",
+        "COMPRIMIDO",
+        "4830"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "AMBRISENTANA 10MG CPR",
+        "COMPRIMIDO",
+        "60"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "AMBRISENTANA 5MG CPR",
+        "COMPRIMIDO",
+        "120"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ATORVASTATINA 20MG CPR",
+        "COMPRIMIDO",
+        "20270"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ATORVASTATINA 40MG CPR",
+        "COMPRIMIDO",
+        "9480"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "AZATIOPRINA 50MG CPR",
+        "COMPRIMIDO",
+        "4309"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "A1",
+        "GRAMA",
+        "988800"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "A2",
+        "GRAMA",
+        "296000"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "BARICITINIBE 4MG CPR",
+        "COMPRIMIDO",
+        "478"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "BETAINTERFERONA 1A 44MCG/12.000.000UI SER\n0,5ML (T)",
+        "UNIDADE",
+        "12"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "BIMATOPROSTA 0,3MG/ML SOL.OFTALMICA FR 3ML",
+        "FRASCO",
+        "108"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "BOSENTANA 125MG CPR",
+        "COMPRIMIDO",
+        "120"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "BOSENTANA 62,5MG CPR",
+        "COMPRIMIDO",
+        "60"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "BRIMONIDINA 0,2% COL FR 5ML",
+        "FRASCO",
+        "54"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "BRINZOLAMIDA 1% COL FR 5ML",
+        "FRASCO",
+        "62"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "BUDESONIDA 200MCG/DS PO OU CAP INALANTE",
+        "DOSE",
+        "370740"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "BUDESONIDA 400MCG/DS INALANTE",
+        "DOSE",
+        "1260"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CABERGOLINA 0,5MG CPR",
+        "COMPRIMIDO",
+        "384"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CALCIPOTRIOL 50MCG/G BNG",
+        "GRAMA",
+        "79198"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CALCITRIOL 0,25MCG CAP",
+        "CAPSULA",
+        "3000"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CANETA REUTILIZÁVEL APLIC. INSULINA\nGLARGINA _BIOPEMM",
+        "UNIDADE",
+        "7"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CANETA REUTILIZÁVEL APLIC. INSULINA\nLISPRO_HUMAPEN ERGO 2",
+        "UNIDADE",
+        "1"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CERTOLIZUMABE PEGOL 200MG/ML SER 1ML (T)",
+        "UNIDADE",
+        "334"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CICLOSPORINA 100MG CAP",
+        "CAPSULA",
+        "2280"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CICLOSPORINA 50MG CAP",
+        "CAPSULA",
+        "2890"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CINACALCETE 30MG CPR",
+        "COMPRIMIDO",
+        "1200"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CIPROFIBRATO 100MG CPR",
+        "COMPRIMIDO",
+        "110"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CLADRIBINA 10MG CPR",
+        "COMPRIMIDO",
+        "15"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CLOBETASOL 0,5MG CREME BNG",
+        "GRAMA",
+        "12180"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CLOBETASOL 0,5MGG SOL CAPILAR FR 50G",
+        "FRASCO",
+        "9"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CLOPIDOGREL 75MG CPR",
+        "COMPRIMIDO",
+        "2680"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CLOZAPINA 100MG CPR",
+        "COMPRIMIDO",
+        "16665"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "CLOZAPINA 25MG CPR",
+        "COMPRIMIDO",
+        "870"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CODEINA 30MG CPR",
+        "COMPRIMIDO",
+        "7710"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "CODEINA 60MG CPR",
+        "COMPRIMIDO",
+        "30"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "DABIGATRANA 110MG CAP",
+        "CAPSULA",
+        "7080"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "DABIGATRANA 150MG CAP",
+        "CAPSULA",
+        "8670"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "DAPAGLIFOZINA 10MG CPR",
+        "COMPRIMIDO",
+        "12450"
+      ]
+    },
+    {
+      "pagina": 1,
+      "cabecalho": [
+        "DS_ESTOQUE",
+        "DS_PRODUTO",
+        "DS_UNIDADE",
+        "QT_ATUAL"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "DEFERASIROX 500MG CPR",
+        "COMPRIMIDO",
+        "216"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "DESMOPRESSINA 0,1MG/ML INTRA NASAL FR 2,5ML",
+        "FRASCO",
+        "12"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "DIMETILA 240 MG CAP LC",
+        "CAPSULA",
+        "280"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "DONEPEZILA 10MG CPR",
+        "COMPRIMIDO",
+        "4315"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "DONEPEZILA 5MG CPR",
+        "COMPRIMIDO",
+        "550"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "DORZOLAMIDA 2% COL FR 5ML",
+        "FRASCO",
+        "20"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ECULIZUMABE 300MG F/A",
+        "FRASCO AMPOLA",
+        "24"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ELTROMBOPAG 25MG CPR",
+        "COMPRIMIDO",
+        "164"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ELTROMBOPAG 50MG CPR",
+        "COMPRIMIDO",
+        "42"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ENOXAPARINA 40MG/0,4ML SER",
+        "UNIDADE",
+        "40"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ENOXAPARINA 40MG/0,4ML SER",
+        "UNIDADE",
+        "33"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ENOXAPARINA 60MG/0,6ML SER",
+        "UNIDADE",
+        "105"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ENOXAPARINA 60MG/0,6ML SER",
+        "UNIDADE",
+        "68"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ENOXAPARINA 80MG/0,8ML SER",
+        "UNIDADE",
+        "30"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ENTACAPONA 200MG CPR",
+        "COMPRIMIDO",
+        "6809"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ERITROPOETINA RECOMBINANTE HUMANA 10000UI\nF/A (T)",
+        "FRASCO AMPOLA",
+        "504"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ERITROPOETINA RECOMBINANTE HUMANA 2000UI\nF/A (T)",
+        "FRASCO AMPOLA",
+        "1300"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ERITROPOETINA RECOMBINANTE HUMANA 4000UI\nF/A",
+        "FRASCO AMPOLA",
+        "2634"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ERTAPENEM 1G F/A",
+        "FRASCO AMPOLA",
+        "29"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ETANERCEPTE 25MG F/A - ENBREL (T)",
+        "FRASCO AMPOLA",
+        "8"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ETANERCEPTE 50MG F/A - BRENZYS (T)",
+        "FRASCO AMPOLA",
+        "34"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ETANERCEPTE 50MG F/A - ENBREL (T)",
+        "FRASCO AMPOLA",
+        "24"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ETOSSUXIMIDA 50MG/ML SLC ORAL",
+        "MILILITRO",
+        "1680"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "EVEROLIMO 0,5MG CPR",
+        "COMPRIMIDO",
+        "160"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "EVEROLIMO 0,75MG CPR",
+        "COMPRIMIDO",
+        "225"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "EVEROLIMO 1MG CPR",
+        "COMPRIMIDO",
+        "685"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "FENOFIBRATO 250MG CAP",
+        "CAPSULA",
+        "120"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "FILGRASTIM 300MCG/ML F/A (T)",
+        "FRASCO AMPOLA",
+        "28"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "FILTRO HEMOLISADOR ALFATALIGLICERASE 200UI",
+        "UNIDADE",
+        "24"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "FINGOLIMODE 0,5 MG CAP",
+        "CAPSULA",
+        "532"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "FLUDROCORTISONA 0,1MG CPR (T)",
+        "COMPRIMIDO",
+        "300"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "FORMOTEROL 12MCG/DS PO OU CAP INALANTE",
+        "DOSE",
+        "5760"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "FORMOTEROL+BUDESONIDA 12MCG/400MCG/DS PO\nOU CAP INALANTE",
+        "DOSE",
+        "180"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "FORMOTEROL+BUDESONIDA 6MCG/200MCG/DS CAP\nINALANTE",
+        "DOSE",
+        "599"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "F2",
+        "GRAMA",
+        "85600"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "F3 _ALFAMINO",
+        "GRAMA",
+        "107600"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "GABAPENTINA 300MG CAP",
+        "CAPSULA",
+        "29530"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "GABAPENTINA 400MG CAP",
+        "CAPSULA",
+        "24229"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "GALANTAMINA 16MG CPR LC",
+        "COMPRIMIDO",
+        "396"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "GALANTAMINA 24MG CPR LC",
+        "COMPRIMIDO",
+        "953"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "GALANTAMINA 8MG CPR LC",
+        "COMPRIMIDO",
+        "254"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "GLATIRAMER 40MG/ML SERING.1ML (T)",
+        "FRASCO AMPOLA",
+        "24"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "GOLIMUMABE 50MG/0,5ML CAN (T)",
+        "UNIDADE",
+        "30"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "GOSSERRELINA 10,8MG SER (T)",
+        "UNIDADE",
+        "9"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "GOSSERRELINA 3,6MG SER (T)",
+        "UNIDADE",
+        "1"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "HIDROXICLOROQUINA 400MG CPR",
+        "COMPRIMIDO",
+        "7290"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "HIDROXIUREIA 500MG CAP",
+        "CAPSULA",
+        "3170"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ICATIBANTO 30MG SER 3ML (T)",
+        "UNIDADE",
+        "1"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ILOPROSTA 10MCG/ML SOL.INALACAO AMP. 1ML",
+        "AMPOLA",
+        "90"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "IMIGLUCERASE 400UI F/A (T)",
+        "FRASCO AMPOLA",
+        "36"
+      ]
+    },
+    {
+      "pagina": 2,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "DEFERIPRONA 500MG CPR",
+        "COMPRIMIDO",
+        "1630"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "IMUNOGLOBULINA HUMANA 5G F/A (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - XILFYA (T)",
+        "FRASCO AMPOLA",
+        "187"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INSULINA GLARGINA 100UI/ML F/A REFIL 3ML (T)",
+        "FRASCO AMPOLA",
+        "445"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "INSULINA GLARGINA 100UI/ML F/A REFIL 3ML (T)",
+        "FRASCO AMPOLA",
+        "94"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "INSULINA GLARGINA 100UI/ML F/A 10ML (T)",
+        "FRASCO AMPOLA",
+        "92"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INSULINA LISPRO 100UI/ML F/A 3ML (T)",
+        "FRASCO AMPOLA",
+        "733"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "ISOTRETINOINA 20MG CAP",
+        "CAPSULA",
+        "3220"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "KIT DE INFUSÃO INFLIXIMABE (REMICADE)",
+        "KIT",
+        "149"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "KIT DE INFUSÃO INFLIXIMABE (XILFYA)",
+        "KIT",
+        "243"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "LAMOTRIGINA 100MG CPR",
+        "COMPRIMIDO",
+        "19290"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "LAMOTRIGINA 25MG CPR",
+        "COMPRIMIDO",
+        "1530"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "LAMOTRIGINA 50MG CPR",
+        "COMPRIMIDO",
+        "1135"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LANREOTIDA 90MG/0,5ML SER (T)",
+        "UNIDADE",
+        "3"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LATANOPROSTA 50MCG/ML COL 2,5ML (T)",
+        "FRASCO",
+        "354"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LEFLUNOMIDA 20MG CPR",
+        "COMPRIMIDO",
+        "120"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "LEUPRORRELINA 3,75MG F/A",
+        "FRASCO AMPOLA",
+        "46"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "LEUPRORRELINA 45MG F/A (T)",
+        "FRASCO AMPOLA",
+        "2"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LEVETIRACETAM 100MG/ML SLC ORAL",
+        "MILILITRO",
+        "24000"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LEVETIRACETAM 1000MG CPR",
+        "COMPRIMIDO",
+        "1380"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LEVETIRACETAM 250MG CPR",
+        "COMPRIMIDO",
+        "4350"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "LEVETIRACETAM 250MG CPR",
+        "COMPRIMIDO",
+        "330"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LEVETIRACETAM 500MG CPR",
+        "COMPRIMIDO",
+        "5670"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "LEVETIRACETAM 750MG CPR",
+        "COMPRIMIDO",
+        "1614"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "MEMANTINA 10MG CPR",
+        "COMPRIMIDO",
+        "6975"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MEPOLIZUMABE 100MG CANETA",
+        "UNIDADE",
+        "9"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MESALAZINA 1G ENEMA",
+        "FRASCO",
+        "147"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MESALAZINA 2G ENV LP",
+        "UNIDADE",
+        "630"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MESALAZINA 250MG SUP",
+        "UNIDADE",
+        "705"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MESALAZINA 400MG CPR",
+        "COMPRIMIDO",
+        "3510"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MESALAZINA 500MG CPR",
+        "COMPRIMIDO",
+        "430"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MESALAZINA 500MG SUPOSITORIO",
+        "UNIDADE",
+        "600"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MESALAZINA 800MG CPR",
+        "COMPRIMIDO",
+        "2380"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METADONA 10MG CPR",
+        "COMPRIMIDO",
+        "660"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METADONA 5MG CPR",
+        "COMPRIMIDO",
+        "360"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METILFENIDATO LA 20MG CAP",
+        "CAPSULA",
+        "8540"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METILFENIDATO LA 30MG CAP",
+        "CAPSULA",
+        "3750"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METILFENIDATO 10MG CPR",
+        "COMPRIMIDO",
+        "1480"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METILFENIDATO 18MG CAP LP",
+        "CAPSULA",
+        "1200"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METILFENIDATO 36MG CAP LP",
+        "CAPSULA",
+        "810"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "METOTREXATE 2,5MG CPR",
+        "COMPRIMIDO",
+        "4320"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "METOTREXATE 2,5MG CPR",
+        "COMPRIMIDO",
+        "2796"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "METOTREXATE 25MG/ML F/A",
+        "FRASCO AMPOLA",
+        "8"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "MICOFENOLATO MOFETILA 500MG CPR",
+        "COMPRIMIDO",
+        "1820"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "MICOFENOLATO 180MG CPR",
+        "COMPRIMIDO",
+        "1020"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "MICOFENOLATO 360MG CPR",
+        "COMPRIMIDO",
+        "7090"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MONTELUCASTE 4MG CPR",
+        "COMPRIMIDO",
+        "30"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MORFINA 10MG CPR",
+        "COMPRIMIDO",
+        "750"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MORFINA 30MG CAP LC",
+        "CAPSULA",
+        "120"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "MORFINA 30MG CPR",
+        "COMPRIMIDO",
+        "450"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "NAPROXENO 500MG CPR",
+        "COMPRIMIDO",
+        "310"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "NATALIZUMAB 300MG/15ML F/A (T)",
+        "FRASCO AMPOLA",
+        "6"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "OCTREOTIDA LAR 20MG F/A (T)",
+        "FRASCO AMPOLA",
+        "3"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "OCTREOTIDA LAR 30MG F/A (T)",
+        "FRASCO AMPOLA",
+        "1"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "OLANZAPINA 10MG CPR",
+        "COMPRIMIDO",
+        "9430"
+      ]
+    },
+    {
+      "pagina": 3,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+        "FRASCO AMPOLA",
+        "85"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "OLANZAPINA 5MG CPR",
+        "COMPRIMIDO",
+        "1920"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "OXIBUTININA 10MG CPR",
+        "COMPRIMIDO",
+        "1800"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "OXIBUTININA 5MG CPR",
+        "COMPRIMIDO",
+        "5130"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "PANCRELIPASE 10000UI CAP",
+        "CAPSULA",
+        "7410"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "PANCRELIPASE 25000UI CAP",
+        "CAPSULA",
+        "43050"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "PARICALCITOL 5,0MCG/ML F/A",
+        "FRASCO AMPOLA",
+        "60"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "PIRIDOSTIGMINA 60MG CPR",
+        "COMPRIMIDO",
+        "2970"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "PKU 2-COMPLEMENTO ALIMENTAR S/\nFENILALANINA DE 1 A 8ANOS",
+        "GRAMA",
+        "7000"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "PKU 3-COMPLEMENTO ALIMENTAR S/\nFENILALANINA ACIMA 8ANOS",
+        "GRAMA",
+        "29500"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "PRAMIPEXOL 0,125MG CPR",
+        "COMPRIMIDO",
+        "580"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "PRAMIPEXOL 0,25MG CPR",
+        "COMPRIMIDO",
+        "5070"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "PRAMIPEXOL 1MG CPR",
+        "COMPRIMIDO",
+        "7109"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "PRIMIDONA 100MG CPR",
+        "COMPRIMIDO",
+        "40"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "P1",
+        "GRAMA",
+        "66800"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "P7 _ ALFA JUNIOR/ NEOCATE ADVANCE",
+        "GRAMA",
+        "28400"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "P8",
+        "GRAMA",
+        "25200"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "QUETIAPINA 100MG CPR",
+        "COMPRIMIDO",
+        "7570"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "QUETIAPINA 100MG CPR",
+        "COMPRIMIDO",
+        "780"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "QUETIAPINA 200MG CPR",
+        "COMPRIMIDO",
+        "6300"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "QUETIAPINA 25MG CPR",
+        "COMPRIMIDO",
+        "8560"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "QUETIAPINA 300MG CPR",
+        "COMPRIMIDO",
+        "2160"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "RALOXIFENO 60MG CPR",
+        "COMPRIMIDO",
+        "3924"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RASAGILINA 1MG CPR",
+        "COMPRIMIDO",
+        "630"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RILUZOL 50MG CPR",
+        "COMPRIMIDO",
+        "644"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RISANQUIZUMABE 150MG/ 1,0ML (T)",
+        "SERINGA",
+        "9"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "RISEDRONATO 35MG CPR",
+        "COMPRIMIDO",
+        "1022"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "RISPERIDONA 1MG CPR",
+        "COMPRIMIDO",
+        "4500"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "RISPERIDONA 1MG/ML GTS FR 30ML",
+        "FRASCO",
+        "139"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "RISPERIDONA 2MG CPR",
+        "COMPRIMIDO",
+        "14860"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "RIVAROXABANA 15MG CPR",
+        "COMPRIMIDO",
+        "5730"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "RIVAROXABANA 20MG CPR",
+        "COMPRIMIDO",
+        "6360"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RIVASTIGMINA PATCH 10 (9,5MG/24H) 18MG ADS",
+        "UNIDADE",
+        "300"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RIVASTIGMINA 1,5MG CAP",
+        "CAPSULA",
+        "270"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RIVASTIGMINA 3MG CAP",
+        "CAPSULA",
+        "750"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RIVASTIGMINA 4,5MG CAP",
+        "CAPSULA",
+        "60"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "RIVASTIGMINA 6MG CAP",
+        "CAPSULA",
+        "90"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ROMOSOZUMABE 105MG/1,17ML\n(90MG/ML)_EVENITY SER PREENCH (T)",
+        "UNIDADE",
+        "27"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SACARATO DE HIDROXIDO FERRICO 20MG/ML AMP\n5ML",
+        "AMPOLA",
+        "358"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SACUBITRIL VALSARTANA 100MG CPR",
+        "COMPRIMIDO",
+        "2420"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SACUBITRIL VALSARTANA 200MG CPR",
+        "COMPRIMIDO",
+        "5370"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SACUBITRIL VALSARTANA 50MG CPR",
+        "COMPRIMIDO",
+        "1424"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SALMETEROL+FLUTICASONA 25/125MCG/DS SPRAY\nAEROSSOL",
+        "DOSE",
+        "14760"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SECUQUINUMABE 150MG/ML CAN (T)",
+        "UNIDADE",
+        "29"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SELEXIPAGUE 0,8MG CPR",
+        "COMPRIMIDO",
+        "60"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SELEXIPAGUE 1,6MG CPR",
+        "COMPRIMIDO",
+        "60"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SEVELAMER 800MG CPR",
+        "COMPRIMIDO",
+        "12570"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SILDENAFILA 20MG CPR",
+        "COMPRIMIDO",
+        "1982"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SILDENAFILA 50MG CPR",
+        "COMPRIMIDO",
+        "724"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SIROLIMO 1MG DRG",
+        "DRAGEA",
+        "116"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SIROLIMO 2MG DRG",
+        "DRAGEA",
+        "345"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SOMATROPINA 12UI F/A (T)",
+        "FRASCO AMPOLA",
+        "818"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "SOMATROPINA 4UI F/A (T)",
+        "FRASCO AMPOLA",
+        "261"
+      ]
+    },
+    {
+      "pagina": 4,
+      "cabecalho": [
+        "FCC - PADRONIZADOS",
+        "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+        "SERINGA",
+        "68"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "SULFASSALAZINA 500MG CPR",
+        "COMPRIMIDO",
+        "2940"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 5MG CAP",
+        "CAPSULA",
+        "2212"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TAFAMIDIS 20 MG CPR (T)",
+        "CAPSULA",
+        "90"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TIMOLOL 0,5% COL FR 5ML",
+        "FRASCO",
+        "324"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TIOTROPIO 2,5MCG/OLODATEROL 2,5MCG SOL INAL\nFR 4ML",
+        "FRASCO",
+        "153"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TOCILIZUMABE 20MG/ML F/A 4ML - ACTEMRA (T)",
+        "FRASCO AMPOLA",
+        "4"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TOFACITINIBE 5MG CPR",
+        "COMPRIMIDO",
+        "1140"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TOPIRAMATO 100MG CPR",
+        "COMPRIMIDO",
+        "7890"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TOPIRAMATO 25MG CPR",
+        "COMPRIMIDO",
+        "1545"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TOPIRAMATO 50MG CPR",
+        "COMPRIMIDO",
+        "1485"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TOXINA BOTULINICA TIPO A 100UI F/A (T)",
+        "FRASCO AMPOLA",
+        "2"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TRAMADOL 50MG CAP",
+        "CAPSULA",
+        "35849"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TRAVOPROSTA 0,04MG/ML SOL.OFTALMICA FR\n2,5ML",
+        "FRASCO",
+        "314"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TRIENTINA 250MG CAP (T)",
+        "CAPSULA",
+        "200"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TRIPTORRELINA 11,25MG F/A 2ML",
+        "FRASCO AMPOLA",
+        "1"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TRIPTORRELINA 22,5MG F/A 2ML",
+        "FRASCO AMPOLA",
+        "2"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "TRIPTORRELINA 3,75MG F/A",
+        "FRASCO AMPOLA",
+        "4"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADOS",
+        "UMECLIDÍNIO + VILANTEROL 62,5MCG/25MCG PO\nINALANTE",
+        "FRASCO",
+        "105"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "UPADACITINIBE 15MG CPR",
+        "COMPRIMIDO",
+        "660"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "USTEQUINUMABE 45MG F/A 0,5ML",
+        "FRASCO AMPOLA",
+        "3"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "VEDOLIZUMABE 300MG F/A (T)",
+        "FRASCO AMPOLA",
+        "9"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ZIPRASIDONA 40MG CAP",
+        "CAPSULA",
+        "44"
+      ]
+    },
+    {
+      "pagina": 5,
+      "cabecalho": [
+        "FCC - PADRONIZADO ESP 1A",
+        "TACROLIMO 1MG CAP",
+        "CAPSULA",
+        "15440"
+      ],
+      "linha": [
+        "FCC - PADRONIZADO ESP 1A",
+        "ZIPRASIDONA 80MG CAP",
+        "CAPSULA",
+        "968"
+      ]
+    }
+  ]
+}
