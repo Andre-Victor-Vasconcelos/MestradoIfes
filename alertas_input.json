@@ -1,0 +1,2210 @@
+[
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TALIDOMIDA 100MG CPR",
+    "data_referencia": "2026-01-12",
+    "quantidade_estoque": 60.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "F3 _NEOCATE LCP",
+    "data_referencia": "2026-01-12",
+    "quantidade_estoque": 47200.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SAPROPTERINA_KUVAN 100MG CPR (T)",
+    "data_referencia": "2026-01-26",
+    "quantidade_estoque": 30.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ACIDO ZOLEDRONICO 5MG/100ML SLC INTRAVENOSA",
+    "data_referencia": "2026-01-26",
+    "quantidade_estoque": 100.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ERITROPOETINA RECOMBINANTE HUMANA 4000UI F/A (T)",
+    "data_referencia": "2026-02-10",
+    "quantidade_estoque": 663.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MEMANTINA 10MG CPR",
+    "data_referencia": "2026-02-10",
+    "quantidade_estoque": 300.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "MESALAZINA 500MG CPR",
+    "data_referencia": "2026-02-23",
+    "quantidade_estoque": 10.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "DESFEROXAMINA 500MG F/A",
+    "data_referencia": "2026-03-09",
+    "quantidade_estoque": 14.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "P7",
+    "data_referencia": "2026-03-09",
+    "quantidade_estoque": 32000.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "P7 _ ALFA JUNIOR/ NEOCATE ADVANCE",
+    "data_referencia": "2026-03-23",
+    "quantidade_estoque": 28400.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "F2",
+    "data_referencia": "2026-04-06",
+    "quantidade_estoque": 40800.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "BETAINTERFERONA 1A 44MCG/12.000.000UI SER 0,5ML (T)",
+    "data_referencia": "2026-04-06",
+    "quantidade_estoque": 12.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SILDENAFILA 25MG CPR",
+    "data_referencia": "2026-04-06",
+    "quantidade_estoque": 200.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "OXIBUTININA 10MG CPR",
+    "data_referencia": "2026-04-06",
+    "quantidade_estoque": 1740.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "P8 _ NESH PENTASURE PEDIAT.",
+    "data_referencia": "2026-05-04",
+    "quantidade_estoque": 21200.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "INFLIXIMAB 10MG/ML F/A 10ML - REMICADE (T)",
+    "data_referencia": "2026-06-01",
+    "quantidade_estoque": 109.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MORFINA 30MG CPR",
+    "data_referencia": "2026-06-15",
+    "quantidade_estoque": 40.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "FORMOTEROL+BUDESONIDA 6MCG/200MCG/DS CAP INALANTE",
+    "data_referencia": "2026-06-15",
+    "quantidade_estoque": 2400.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SOMATROPINA 12UI F/A (T)",
+    "data_referencia": "2026-06-29",
+    "quantidade_estoque": 1284.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "USTEQUINUMABE 45MG F/A 0,5ML",
+    "data_referencia": "2026-06-29",
+    "quantidade_estoque": 9.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TOXINA BOTULINICA TIPO A 100UI F/A (T)",
+    "data_referencia": "2026-06-29",
+    "quantidade_estoque": 2.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TOXINA BOTULINICA TIPO A 500UI F/A (T)",
+    "data_referencia": "2026-06-29",
+    "quantidade_estoque": 2.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PKU 3-COMPLEMENTO ALIMENTAR S/ FENILALANINA ACIMA 8ANOS",
+    "data_referencia": "2026-06-29",
+    "quantidade_estoque": 23500.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "F3 _ALFAMINO/ NEOCATE",
+    "data_referencia": "2026-07-13",
+    "quantidade_estoque": 93976.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TAFAMIDIS 20 MG CPR (T)",
+    "data_referencia": "2026-07-13",
+    "quantidade_estoque": 30.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "BUDESONIDA 400MCG/DS INALANTE",
+    "data_referencia": "2026-07-27",
+    "quantidade_estoque": 1200.002,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TOPIRAMATO 100MG CPR",
+    "data_referencia": "2026-07-27",
+    "quantidade_estoque": 495.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METOTREXATE 2,5MG CPR",
+    "data_referencia": "2026-08-11",
+    "quantidade_estoque": 4072.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SACARATO DE HIDROXIDO FERRICO 20MG/ML AMP 5ML",
+    "data_referencia": "2026-08-11",
+    "quantidade_estoque": 371.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CLOBETASOL 0,5MGG SOL CAPILAR FR 50G",
+    "data_referencia": "2026-08-11",
+    "quantidade_estoque": 2.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CLOZAPINA 25MG CPR",
+    "data_referencia": "2026-08-11",
+    "quantidade_estoque": 1800.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "GOSSERRELINA 3,6MG SER (T)",
+    "data_referencia": "2026-08-11",
+    "quantidade_estoque": 7.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "FILGRASTIM 300MCG/ML F/A (T)",
+    "data_referencia": "2026-08-11",
+    "quantidade_estoque": 6.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "OCTREOTIDA LAR 30MG F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "OCTREOTIDA LAR 20MG F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "OLANZAPINA 5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5550.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "OLANZAPINA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 22276.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "NATALIZUMAB 300MG/15ML F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 15.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "P7 _ ALFA JUNIOR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 62800.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MORFINA 30MG CAP LC",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 60.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MORFINA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 3860.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MONTELUCASTE 4MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 30.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "OMALIZUMABE 150MG/ML_SERINGA PREENCHIDA",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 206.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "MICOFENOLATO 360MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 4204.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "NAPROXENO 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 560.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "OXIBUTININA 5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 9943.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "P1",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 363590.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PANCRELIPASE 25000UI CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 15960.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "PARICALCITOL 5,0MCG/ML F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 181.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PIRIDOSTIGMINA 60MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1940.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PKU 2-COMPLEMENTO ALIMENTAR S/ FENILALANINA DE 1 A 8ANOS",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1500.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PKU 3 COMPLEMENTO ALIMENTAR S/ FENILALANINA > 8ANOS",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 47000.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "PRAMIPEXOL 0,125MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 680.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PRAMIPEXOL 0,25MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 330.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "PRAMIPEXOL 0,25MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 14080.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "PRAMIPEXOL 1MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1930.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PRIMIDONA 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 140.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "MICOFENOLATO 180MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1170.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "PANCRELIPASE 10000UI CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 10110.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "MICOFENOLATO MOFETILA 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5090.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LEVETIRACETAM 1000MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6292.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "METOTREXATE 2,5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 18002.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "P8",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 70400.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LEVETIRACETAM 100MG/ML SLC ORAL",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 45400.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "LEVETIRACETAM 250MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 210.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LEVETIRACETAM 250MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 23170.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LEVETIRACETAM 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 270.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "LEVETIRACETAM 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6120.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LEVETIRACETAM 750MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1440.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "MEMANTINA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 3034.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MEPOLIZUMABE 100MG CANETA",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 45.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 1G ENEMA",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 170.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 1000MG SUP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 663.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 2G ENV LP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2070.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 250MG SUP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 465.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 400MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 734.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 13790.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 500MG SUPOSITORIO",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1200.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "MESALAZINA 800MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 14510.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METADONA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 430.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METADONA 5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 290.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO LA 20MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 12570.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO LA 30MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5847.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO LA 40MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 4650.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO 10MG CAP LP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 810.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 13761.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO 18MG CAP LP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 600.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO 36MG CAP LP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1170.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "METILFENIDATO 54MG CAP LP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 420.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "METOTREXATE 25MG/ML F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 318.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "QUETIAPINA 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 17440.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "USTEQUINUMABE 45MG/0,5ML (SER.PREENCHIDA) _STELARA",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "QUETIAPINA 200MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 24997.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SIROLIMO 1MG DRG",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 546.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SIROLIMO 2MG DRG",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 450.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SOMATROPINA 12UI F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1306.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SOMATROPINA 4UI F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 347.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SULFASSALAZINA 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 26865.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TACROLIMO 1MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 30930.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TACROLIMO 5MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2402.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TEICOPLANINA 400MG F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 115.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TIMOLOL 0,5% COL FR 5ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1453.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TIOTROPIO 2,5MCG/OLODATEROL 2,5MCG SOL INAL FR 4ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 367.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TOCILIZUMABE 20MG/ML F/A 4ML - ACTEMRA (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 10.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TOFACITINIBE 5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2540.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TOPIRAMATO 25MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1790.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TOPIRAMATO 50MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 180.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TRAMADOL 50MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 141408.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TRAVOPROSTA 0,04MG/ML SOL.OFTALMICA FR 2,5ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 360.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "TRIENTINA 250MG CAP (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 100.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TRIENTINA 250MG CAP (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 100.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TRIPTORRELINA 11,25MG F/A 2ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 14.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TRIPTORRELINA 22,5MG F/A 2ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 4.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "TRIPTORRELINA 3,75MG F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 11.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "UMECLIDÍNIO + VILANTEROL 62,5MCG/25MCG PO INALANTE",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 235.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "UPADACITINIBE 15MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1230.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "USTEQUINUMABE 45MG/0,5ML (SER.PREENCHIDA) _ WEZENLA",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "LEUPRORRELINA 45MG F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "VEDOLIZUMABE 300MG F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 16.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "VIGABATRINA 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 600.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SILDENAFILA 50MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 676.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "QUETIAPINA 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 300.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SILDENAFILA 20MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1887.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SELEXIPAGUE 1,6MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 120.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "QUETIAPINA 25MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 23370.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "QUETIAPINA 300MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1020.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "RALOXIFENO 60MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2855.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RASAGILINA 1MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2700.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RILUZOL 50MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 956.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RISANQUIZUMABE 150MG/ 1,0ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "RISEDRONATO 35MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 984.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "RISPERIDONA 1MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6817.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "RISPERIDONA 1MG/ML GTS FR 30ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 445.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "RISPERIDONA 2MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 17745.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RITUXIMAB (RIXIMYO) 500MG/50ML F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 4.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "RIVAROXABANA 15MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 12619.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "RIVAROXABANA 20MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 21020.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RIVASTIGMINA PATCH 10 (9,5MG/24H) 18MG ADS",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2337.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RIVASTIGMINA PATCH 5 (4,6MG/24H) 9MG ADS",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 120.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RIVASTIGMINA 1,5MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 30.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RIVASTIGMINA 3MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 750.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RIVASTIGMINA 4,5MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 240.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "RIVASTIGMINA 6MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 330.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ROMIPLOSTIM 250MCG/0,5ML F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 16.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ROMOSOZUMABE 105MG/1,17ML (90MG/ML)_EVENITY SER PREENCH (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 23.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SACUBITRIL VALSARTANA 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 3204.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SACUBITRIL VALSARTANA 200MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6537.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SACUBITRIL VALSARTANA 50MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1848.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SALMETEROL+FLUTICASONA 25/125MCG/DS SPRAY AEROSSOL",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 78353.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SECUQUINUMABE 150MG/ML CAN (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 77.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "SELEXIPAGUE 0,8MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 120.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "SEVELAMER 800MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 29070.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "LEUPRORRELINA 3,75MG F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 96.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ENOXAPARINA 40MG/0,4ML SER",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 117.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LATANOPROSTA 50MCG/ML COL 2,5ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 840.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CALCITRIOL 0,25MCG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6141.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CANETA REUTILIZÁVEL APLIC. INSULINA GLARGINA _BIOPEMM",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 10.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CANETA REUTILIZÁVEL APLIC. INSULINA LISPRO_HUMAPEN ERGO 2",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CERTOLIZUMABE PEGOL 200MG/ML SER 1ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 348.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CICLOFOSFAMIDA 50MG CPR (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 80.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CICLOSPORINA 100MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2665.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CICLOSPORINA 100MG/ML SLÇ ORAL",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 50.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CICLOSPORINA 25MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5660.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CICLOSPORINA 50MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 625.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CINACALCETE 30MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1380.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CIPROFIBRATO 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 170.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CLADRIBINA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CALCIPOTRIOL 50MCG/G BNG",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 76329.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CLOBAZAM 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 470.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CLOBETASOL 0,5MG CREME BNG",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 12659.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CLOPIDOGREL 75MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2663.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CLOZAPINA 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 24450.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CODEINA 30MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 26640.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CODEINA 60MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 30.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "DABIGATRANA 110MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 8394.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "DABIGATRANA 150MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 12233.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "DAPAGLIFOZINA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 18561.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "DEFERASIROX 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1547.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "DEFERIPRONA 500MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2360.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "DESMOPRESSINA 0,1MG/ML INTRA NASAL FR 2,5ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 51.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "DIMETILA 240 MG CAP LC",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 784.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "CLOBAZAM 20MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2834.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "CABERGOLINA 0,5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 728.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "BUDESONIDA 200MCG/DS PO OU CAP INALANTE",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 289860.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "BRINZOLAMIDA 1% COL FR 5ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 151.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ZIPRASIDONA 40MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2454.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ACIDO TRANEXAMICO 250 MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 168.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ACIDO URSODESOXICOLICO 150MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1260.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ACIDO URSODESOXICOLICO 300MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1860.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ACIDO ZOLEDRONICO 5MG/100ML SLC INTRAVENOSA",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 3300.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ACITRETINA 10MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1610.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ACITRETINA 25MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 600.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ADALIMUMABE 40MG/0,8ML SER - IDACIO (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 48.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ADALIMUMABE 40MG/0,8ML SER - XILBRILADA (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 363.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "AGULHA PARA CANETA 0,23 X 4 MM 32G",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 11148.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ALFAGALSIDASE_REPLAGAL 1MG/ML F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 46.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ALFATALIGLICERASE 200UI F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 150.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "AMANTADINA 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 7060.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "AMBRISENTANA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 180.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "AMBRISENTANA 5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 210.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ATORVASTATINA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 420.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ATORVASTATINA 20MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 14205.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ATORVASTATINA 40MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 56078.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "AZATIOPRINA 50MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 24540.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "A1",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1702369.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "A2",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 625590.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "BARICITINIBE 4MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 660.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "BETAINTERFERONA 1B 9.600.000UI (250MCG/ML) F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 15.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "BIMATOPROSTA 0,3MG/ML SOL.OFTALMICA FR 3ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 312.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "BOSENTANA 125MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 480.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "BOSENTANA 62,5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 180.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "BRIMONIDINA 0,2% COL FR 5ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 604.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "DONEPEZILA 10MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6835.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "DONEPEZILA 5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 810.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "DORZOLAMIDA 2% COL FR 5ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 968.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ECULIZUMABE 300MG F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 42.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "GALANTAMINA 24MG CPR LC",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 925.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "GALANTAMINA 8MG CPR LC",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 160.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "GLATIRAMER 40MG/ML SERING.1ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 24.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "GLICOP12,5MCG+BECL100MCG+FORMOT 6MCG AEROSSOL 120 DS",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 9.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "GOLIMUMABE 50MG/0,5ML CAN (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 222.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "GOSSERRELINA 10,8MG SER (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 7.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "HIDROXICLOROQUINA 400MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 14137.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "HIDROXIUREIA 500MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1600.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ICATIBANTO 30MG SER 3ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ILOPROSTA 10MCG/ML SOL.INALACAO AMP. 1ML",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 270.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "IMIGLUCERASE 400UI F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 17.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "IMUNOGLOBULINA HUMANA 5G F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 54.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "INFLIXIMAB 10MG/ML F/A 10ML - XILFYA (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 222.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "INFLIXIMABE 10MG/ML F/A 10ML - REMICADE (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 150.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "INSULINA GLARGINA 100UI/ML F/A REFIL 3ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1431.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "INSULINA GLARGINA 100UI/ML F/A REFIL 3ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 169.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "INSULINA GLARGINA 100UI/ML F/A 10ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 175.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "INSULINA LISPRO 100UI/ML F/A 3ML (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 962.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ISOTRETINOINA 20MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5680.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "KIT DE INFUSÃO INFLIXIMABE (REMICADE)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 311.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "KIT DE INFUSÃO INFLIXIMABE (XILFYA)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 368.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "LAMOTRIGINA 100MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 40620.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "LAMOTRIGINA 25MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1980.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "LAMOTRIGINA 50MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 4380.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LANREOTIDA 120MG/0,5ML SER (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LANREOTIDA 60MG/0,5ML SER (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LANREOTIDA 90MG/0,5ML SER (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 5.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "GALANTAMINA 16MG CPR LC",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 530.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "LEFLUNOMIDA 20MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 16740.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "GABAPENTINA 400MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 17949.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "F3 _ALFAMINO",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 99176.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ELTROMBOPAG 25MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 136.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ELTROMBOPAG 50MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 420.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ENOXAPARINA 20MG/0,2ML SER",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 30.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ENOXAPARINA 40MG/0,4ML SER",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 629.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ENOXAPARINA 60MG/0,6ML SER",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 246.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ENOXAPARINA 60MG/0,6ML SER",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 153.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ENOXAPARINA 80MG/0,8ML SER",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 100.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ENTACAPONA 200MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 14369.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ERITROPOETINA RECOMBINANTE HUMANA 10000UI F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 672.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ERITROPOETINA RECOMBINANTE HUMANA 2000UI F/A (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 735.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ERITROPOETINA RECOMBINANTE HUMANA 4000UI F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 2235.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ERTAPENEM 1G F/A",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 330.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ETANERCEPTE 25MG F/A - ENBREL (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 8.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ETANERCEPTE 50MG F/A - BRENZYS (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 98.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ETANERCEPTE 50MG F/A - ENBREL (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 8.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "ETOSSUXIMIDA 50MG/ML SLC ORAL",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 6720.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "EVEROLIMO 0,5MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1020.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "EVEROLIMO 0,75MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 225.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "EVEROLIMO 1MG CPR",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 1025.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "FENOFIBRATO 200MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 810.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "FENOFIBRATO 250MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 540.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "FILTRO HEMOLISADOR ALFATALIGLICERASE 200UI",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 44.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "FINGOLIMODE 0,5 MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 476.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "FLUDROCORTISONA 0,1MG CPR (T)",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 340.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "FORMOTEROL 12MCG/DS PO OU CAP INALANTE",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 13018.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "FORMOTEROL+BUDESONIDA 12MCG/400MCG/DS PO OU CAP INALANTE",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 43380.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "F2 _ PREGOMIN",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 225955.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADOS",
+    "medicamento": "GABAPENTINA 300MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 126912.0,
+    "revisar_manualmente": false
+  },
+  {
+    "unidade_saude": "CARIACICA",
+    "categoria_estoque": "FCC - PADRONIZADO ESP 1A",
+    "medicamento": "ZIPRASIDONA 80MG CAP",
+    "data_referencia": "2026-08-24",
+    "quantidade_estoque": 4336.0,
+    "revisar_manualmente": false
+  }
+]
